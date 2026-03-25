@@ -1,0 +1,15 @@
+.checkbox {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.checkbox input {
+    display: none;
+    … margin-right: 10px;
+    user-select: none;
+    font-weight: 700;
+    cursor: pointer;
+}
